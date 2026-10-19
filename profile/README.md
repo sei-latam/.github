@@ -1,6 +1,6 @@
 ## SEI Latin America
 
-SEI Latin America is a multidisciplinary research and technology organization focused on water resources, climate resilience, geospatial analysis, environmental monitoring, and applied data science for Latin American contexts.
+SEI Latin America is a multidisciplinary research organization focused on water resources, climate resilience, geospatial analysis, environmental monitoring, and applied data science for Latin American contexts.
 
 Our work combines hydrology, machine learning, remote sensing, GIS, and interactive web platforms to support decision-making for water management, ecosystem monitoring, and climate adaptation.
 
