@@ -111,8 +111,8 @@ Our work combines hydrology, machine learning, remote sensing, GIS, and interact
 - Visibility: Public
 - Contributors: @CarlosMendez1997Col
 
-### 13) COAST-Wind-Geoportal
-- Title: COAST - Wind Geoportal
+### 13) COAST-Wind-Geovisor
+- Title: COAST - Wind Geovisor
 - Description: Development of the Colombian Ocean Activity and Susceptibility Tool focused on wind-related analysis
 - Stack: Vue.js, GIS, spatial data, web mapping
 - Stars/Forks: 1 star, 0 forks
@@ -135,8 +135,8 @@ Our work combines hydrology, machine learning, remote sensing, GIS, and interact
 - Visibility: Public
 - Contributors: @CarlosMendez1997Col
 
-### 16) Era_R_Shinny_App
-- Title: ERA R Shiny App
+### 16) PORH-TOOL App
+- Title: PORH-TOOL App
 - Description: Interactive R Shiny application for environmental and climate analysis
 - Stack: R, Shiny
 - Stars/Forks: Private repository; public star/fork count not available
